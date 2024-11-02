@@ -43,7 +43,7 @@ This backend is built using **Node.js**, **Express**, and **PostgreSQL** to supp
 ## File Structure
 
 ```
-/tender-backend
+/Backend
 ├── config
 │   └── db.js                  # Database configuration and connection setup
 ├── controllers
